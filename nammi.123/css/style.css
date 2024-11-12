@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+  font-size: 4rem;
+  font-family: "Playwrite CU", cursive;
+}
+.navbar-brand:hover{
+    color:rgb(45, 13, 30) ;
+}
+.nav-link{
+     margin-right: 50px;
+     margin-left: 10px;
+     font-size:20px;
+      color: rgb(177, 65, 65);
+     text-transform: uppercase;
+}
+.nav-link:hover{
+    color: rgb(233, 7, 7);
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline:none;
+    margin-right: -35px;
+    border: 2px solid rgb(248,26,92);
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: rgb(29, 4, 12);
+    color:white ;
+    border-radius: 60px;
+    font-weight: 700;
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border:none;
+    outline:none ;
+    background-color: rgb(224, 26, 26);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+.img-luid{
+    height: 200px;
+    width: 250px;
+}
+.main h1{
+    font-size: 4rem;
+    
+}
+
+main p:nth-child(1){
+    padding-top: 1000px;
+    font-weight: 200;
+   }
+.main{
+    background: url(https://thumbs.dreamstime.com/b/teal-background-variety-fresh-groceries-shopping-cart-filled-319375033.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    background-color: aqua;
+   height: 100vh;
+   width: 100%;
+}
+
+.box{
+    flex: 1 1  30rem;
+    box-shadow: 0 0.5rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    border: 0.1rem solid rgb(177, 65, 65);
+    padding: 2rem;
+    text-align: center;
+    border-radius: 0.5rem;
+}
+.dis{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    background: var(--main);
+    padding-inline-start: 0.7rem 1rem;
+    font-size: 2rem;
+    color: #ff1e1e;
+}
+.btn{
+    border-radius: 100px;
+    background-color: #ff1e1e;
+}
+.btn2{
+    width: 222px;
+    border:none;
+    outline:none ;
+    background-color: rgb(238, 19, 19);
+    color: white;
+    border-radius: -19px;
+}
+.box{
+    height: 350px;
+    
+}
+.fod{
+    padding-top: -4px;
+}
+.img-fluid{
+    height: 80px;
+    width: 80px;
+    margin-top: 4px;
+}
+.parent{
+    margin-top: 150px;
+}
+.banner{
+    padding: 20px 0px;
+}
+.item{
+    background-color: #7f2c4d;
+    padding: 9px;
+}
+.text{
+    width: 431px;
+}
+.h2{
+ font-size:36px ;
+ line-height: 51px;
+ text-shadow: 1px 1px 1px #4444;
+}
+
+.btn3{
+    height: 45px;
+    width: 35%;
+    border:none;
+    outline:none ;
+    background-color: rgb(142, 19, 80);
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+}
+.get1{
+    width: 139px;
+    padding-left: 10px;
+    padding-top: -9px;
+}
+.get2{
+    width: 139px;
+    padding-left:10px ;
+    padding-top: -39px;
+}
+.ite{
+    background-color: #ebb153;
+    padding: 9px;
+    margin-top: 0px;
+}
+
+.card-title{
+    text-align: center;
+}
+.copy{
+    margin-left: 500px;
+}
